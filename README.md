@@ -1,1 +1,1 @@
-# housepredictor
+# A machine learning model that uses linear regression to predict house prices based on factors like square foootage, bedrooms, bathrooms, neighborhood, etc. Allows the user to input custom factors and recieve a custom price. Creates a dataframe to compare the original price, predicted price through linear regression, and the difference in prices.
